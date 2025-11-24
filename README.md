@@ -1,8 +1,7 @@
 # <center>🛠️ **Ansible Hands‑On Labs — Zero to Hero Series**</center>
 
-<p align="center">
-  <img src="/mnt/data/A_flat-style,_digital_graphic_design_banner_image_.png" width="100%" />
-</p>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7898d4d6-e762-4a95-af40-f64578235576" />
+
 
 ## 👤 **Author: Sandeep Kumar Sharma**
 
